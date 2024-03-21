@@ -27,13 +27,7 @@ const questions = [{
     type: "input",
     message: "Provide contribution guidelines",
     name: "Contribution"
-  },
-  {
-    type: "input",
-    message: "Provide test instructions.",
-    name: "Tests"
-  },
-  {
+  }, {
     type: 'list',
     message: "Choose a license for your application:",
     choices: ["MIT", "GNU GPLv3", "Apache 2.0", "BSD 3-Clause"],
