@@ -51,9 +51,6 @@ function generateMarkdown(data) {
   ## Contributing
   ${data.Contribution}
 
-  ## Tests
-  ${data.Tests}
-
   ## Questions
   For additional questions, you can reach me through:
 
